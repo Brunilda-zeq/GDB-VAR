@@ -1,0 +1,2 @@
+# GDB-VAR
+The purpose of this study is to see if the Federal Reserve's policy affects basic macroeconomic variables such as real GDP and inflation. To examine if monetary policy has a major impact on them, the SVAR framework will be employed. he real chained-2009 GDP (GDPC96), a chain type price indexed at 2009 (gdpctpi), and the ffr(FEDFUNDS) are used in the analysis. GDP and Price were converted to growth rates, and the data were collected on a quarterly basis from 7/1/1954 to 4/1/2017. The first step is to examine each variable's stationarity.
